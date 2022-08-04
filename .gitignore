@@ -1,3 +1,4 @@
 lambda.zip
 main
 .terraform
+.DS_Store
